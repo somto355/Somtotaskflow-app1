@@ -21,8 +21,7 @@ A task management app that allows users to:
 - Responsive design
 - State management
 
-## 📷 Screenshots
-(add later if possible)
+
 
 ## ⚙️ Installation
 npm install
